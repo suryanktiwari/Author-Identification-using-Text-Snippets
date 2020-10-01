@@ -38,6 +38,16 @@ except (OSError, IOError) as e:
 
     pickle.dump(authors, open("authors.pkl", "wb"))
 
+#
+#authors = {
+##        'Alger, Horatio':'https://americanliterature.com/author/horatio-alger',
+##           'Poe, Edgar Allan':'https://americanliterature.com/author/edgar-allan-poe',
+#           'Shakespeare, William':'https://americanliterature.com/author/william-shakespeare',
+#           'Tzu, Sun':'https://americanliterature.com/author/sun-tzu',
+##           'Abbott, Eleanor Hallowell':'https://americanliterature.com/author/eleanor-hallowell-abbott',
+##            'Tennyson, Alfred':'https://americanliterature.com/author/alfred-lord-tennyson'
+#            }
+
 # In[6]:
 
     for author in authors:
