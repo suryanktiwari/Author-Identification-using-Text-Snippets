@@ -1,11 +1,11 @@
 # README - Project 
 # Project Title - Author Identification Using Text Snippets
 
-# Name - Suryank Tiwari
-# Roll No - MT19019
+#### Name - Suryank Tiwari
+#### Roll No - MT19019
 
-# Name - Prateek Agarwal
-# Roll No - MT19070
+#### Name - Prateek Agarwal
+#### Roll No - MT19070
 
 
 List of files submitted:
