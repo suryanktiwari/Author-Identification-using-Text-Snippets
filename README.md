@@ -1,12 +1,11 @@
 # README - Project 
 # Project Title - Author Identification Using Text Snippets
 
-#### Name - Suryank Tiwari
-#### Roll No - MT19019
+This project is inspired by the Kaggle competition Spooky Author Identification.
 
-#### Name - Prateek Agarwal
-#### Roll No - MT19070
+Aim is to crawl author data off the web and create a corpus of it. To clean the data obtained and make a dataset of authors corresponding to iconic/unique/habitual sentence snippets from their work. Finally to train a ML model to identify authors based on these text snippets.
 
+This project is pursued for Machine Learning Course CSE-543 at IIITD.
 
 List of files submitted:
 
@@ -32,3 +31,9 @@ How to run these files:
 
 The python files can be simply run in any editor capable of running the python files as these are in the .py format.
 The ipynb files can be run on colab or jupyter notebook.
+
+# Name - Suryank Tiwari
+# Roll No - MT19019
+
+# Name - Prateek Agarwal
+# Roll No - MT19070
