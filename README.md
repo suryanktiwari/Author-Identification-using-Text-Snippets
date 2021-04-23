@@ -32,8 +32,8 @@ How to run these files:
 The python files can be simply run in any editor capable of running the python files as these are in the .py format.
 The ipynb files can be run on colab or jupyter notebook.
 
-# Name - Suryank Tiwari
-# Roll No - MT19019
+#### Name - Suryank Tiwari
+#### Roll No - MT19019
 
-# Name - Prateek Agarwal
-# Roll No - MT19070
+#### Name - Prateek Agarwal
+#### Roll No - MT19070
