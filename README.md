@@ -35,8 +35,5 @@ The ipynb files can be run on colab or jupyter notebook.
 #### Name - Suryank Tiwari
 #### Roll No - MT19019
 
-#### Name - Rose Verma
-#### Roll No - MT19052
-
 #### Name - Prateek Agarwal
 #### Roll No - MT19070
